@@ -1,7 +1,6 @@
 # BoomBikes-Linear-Regression
 Multiple Linear Regression model to predict BoomBikes demand
-PROJECT NAME
-------------
+
 BoomBikes Shared Bike Demand Prediction
 
 
